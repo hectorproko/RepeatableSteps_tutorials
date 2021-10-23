@@ -11,7 +11,7 @@
     ![Markdown Logo](https://raw.githubusercontent.com/hectorproko/LAMP_STACK/main/images/editInboundRules.png) <br> <br />
 * Click **Add rule** <br />
     ![Markdown Logo](https://raw.githubusercontent.com/hectorproko/LAMP_STACK/main/images/addRule.png) <br> 
-* Pick type **Custom TCP** and source **0.0.0.0/0** meaning all IPs, you can also use drop-down menu **Anywhere-IPv4**
+* Pick type Ex:**Custom TCP** and source Ex:**0.0.0.0/0** meaning all IPs, you can also use drop-down menu **Anywhere-IPv4** or sometimes you might want to specify a **subnet**
 * Save it <br />
     ![Markdown Logo](https://raw.githubusercontent.com/hectorproko/LAMP_STACK/main/images/SaveRules.png) <br> 
 
